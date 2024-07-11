@@ -539,7 +539,7 @@ ul.row{
     text-decoration: none;
 }
 
-button{
+.button{
     display: var(--button-display);
     padding: var(--button-padding);
     border: var(--button-border);
