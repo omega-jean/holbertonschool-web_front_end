@@ -613,7 +613,7 @@ ul.row{
     content: "";
 }
 
-.card-work .card-title {
+.card-work:hover .card-title {
     opacity: 1;
 }
 
